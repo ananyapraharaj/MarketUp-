@@ -14,7 +14,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 st.set_page_config(
-    page_title="Market Minds",
+    page_title="MarketUp!",
     page_icon="💲",
     layout="wide",
 )
